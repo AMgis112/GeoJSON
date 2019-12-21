@@ -1,3 +1,5 @@
+// python script to convert geojson to javascript variable
+// https://www.w3schools.com/python/python_file_write.asp
 // var storing the javascript variable (ie var locations = )
 // bring in geojson as string
 // create a javascript file
